@@ -29,6 +29,7 @@ This project was created to practice working with Python, SQL, PostgreSQL, and C
 Two packages must be installed that Python can utilize
 
 **Windows**
+
 Pandas
 ```powershell
 py -m pip install pandas
