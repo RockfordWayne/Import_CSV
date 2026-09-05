@@ -40,11 +40,11 @@ Psycopg
 py -m pip install psycopg[binary]
 ```
 
-- Create the PostgreSQL table using the "Housing_Prices_table_creation.sql" script. Pull it into your query tool and run it to generate the table.
+- Create the PostgreSQL table using the "Housing_Prices_table_creation.sql" script. Copy or pull it into your query tool and run it to generate the table.
 
-- Update the database connection setting in the Python script to match your local PostgreSQL. (WARNING: This is for testing or practice purposes. This is not a secure way to run this.)
+- Update the database connection settings in the Python script to match your local PostgreSQL settings. (WARNING: This is for testing or practice purposes. This is not a secure way to run this.)
 
-Run:
+Run in the directory where the python file is at:
 
 **Powershell**
 ```powershell
