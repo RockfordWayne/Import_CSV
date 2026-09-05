@@ -1,4 +1,4 @@
-# Import_CSV
+# Import CSV
 A small Python app to read CSV data and insert it into a SQL database.
 
 This project was created to practice working with Python, SQL, PostgreSQL, and CSV files.
