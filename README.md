@@ -46,7 +46,6 @@ py -m pip install psycopg[binary]
 
 Run in the directory where the python file is at:
 
-**Powershell**
 ```powershell
 py CSV_ImportTool.py
 ```
