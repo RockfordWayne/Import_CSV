@@ -12,9 +12,9 @@ This project was created to practice working with Python, SQL, PostgreSQL, and C
 
 ## Project Overview
 
-- "CSV_ImportTool.py" || This is the Python script that facilitates moving the data from a CSV file to a SQL database (in this case PostgreSQL) where a table has already been created.
-- house price.csv" || This is the CSV file the python app will be utilizing.
-- "Housing_Prices_table_creation.sql" || This is a SQL script that you can run in PostgreSQL to create the table that will receive the data from the CSV file.
+- "CSV_ImportTool.py"  -   This is the Python script that facilitates moving the data from a CSV file to a SQL database (in this case PostgreSQL) where a table has already been created.
+- house price.csv"  -  This is the CSV file the python app will be utilizing.
+- "Housing_Prices_table_creation.sql"  -  This is a SQL script that you can run in PostgreSQL to create the table that will receive the data from the CSV file.
 
 ## How It Works
 
